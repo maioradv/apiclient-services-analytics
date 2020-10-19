@@ -3,7 +3,7 @@ Google PHP API Client Services
 
 ## Requirements
 
-[Google API PHP Client](https://github.com/googleapis/google-api-php-client/releases)
+[Google API PHP Client](https://github.com/maioradv/apiclient-services-analytics/releases)
 
 ## Usage in v2 of Google API PHP Client
 
@@ -19,5 +19,5 @@ branch of the client library, but want to use the latest API services, you can
 do so by requiring this library directly into your project via the same composer command:
 
 ```sh
-composer require google/apiclient-services:dev-master
+composer require maioradv/apiclient-services-analytics
 ```
